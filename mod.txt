@@ -1,0 +1,57 @@
+{
+  "blt_version" : 2,
+  "name" : "mgb's mod pack",
+  "description" : "Mods mgb plays with",
+  "author" : "mgb",
+  "image" : "modpack.png",
+  "contact" : "",
+  "version" : "1",
+  "simple_dependencies": {
+    "Alphasort Mods": "http://pd2mods.z77.fr/update/AlphasortMods.zip",
+    "Anticrash": "http://pd2mods.z77.fr/update/Anticrash.zip",
+    "BerserkerBlockerGithubUpdate": "https://rockymoto517.github.io/BerserkerBlocker/BerserkerBlocker.zip",
+    "Bag Contour": "http://pd2mods.z77.fr/update/BagContour.zip",
+    "BAI": "https://www.dropbox.com/s/md7lhnfr0f9rp7k/BAI.zip?raw=1",
+    "Celer": "http://pd2mods.z77.fr/update/Celer.zip",
+    "Convenient Cable Ties":
+      "https://modworkshop.net/api/files/41184/download?",
+    "Drag and Drop Inventory": "http://pd2mods.z77.fr/update/DragDropInventory.zip",
+    "Enhanced Hitmarkers": "http://pd2mods.z77.fr/update/EnhancedHitmarkers.zip",
+    "ExtraProfilesAndSkillSets": "https://github.com/fragtrane/Payday-2-Mods/raw/master/Extra%20Profiles%20and%20Skill%20Sets/Extra_Profiles_and_Skill_Sets_v1.0.zip",
+    "Filtered Camera Beeps": "http://pd2mods.z77.fr/update/FilteredCameraBeeps.zip",
+    "Fix Crime Spree Concealment Modifier": "http://pd2mods.z77.fr/update/FixCrimeSpreeConcealmentModifier.zip",
+    "Flashing Swan Song": "http://pd2mods.z77.fr/update/FlashingSwanSong.zip",
+    "Fully Loaded Ace Throwable Pickup Fix": "https://modworkshop.net/api/files/13344/download?",
+    "Extended Continental Coin Shop Goonmod Standalone": "https://modworkshop.net/api/files/60020/download?",
+    "Intro Cinematics By ThuverX": "https://modworkshop.net/api/files/27164/download?",
+    "Iter": "http://pd2mods.z77.fr/update/Iter.zip",
+    "Less Inaccurate Weapon Laser": "http://pd2mods.z77.fr/update/LessInaccurateWeaponLaser.zip",
+    "Load Steam Inventory Once": "https://modworkshop.net/api/files/24008/download?",
+    "Lobby Settings": "http://pd2mods.z77.fr/update/LobbySettings.zip",
+    "map_optimizations": "https://github.com/RedFlamer/Map-Based-Optimizations/releases/download/refs%2Fheads%2Fmain/Map-Based.Optimizations.zip",
+    "Marking": "http://pd2mods.z77.fr/update/Marking.zip",
+    "More Weapon Stats": "http://pd2mods.z77.fr/update/MoreWeaponStats.zip",
+    "No Duplicated Bullets": "http://pd2mods.z77.fr/update/NoDuplicatedBullets.zip",
+    "Pager Contour": "http://pd2mods.z77.fr/update/PagerContour.zip",
+    "pd2-bot-weapons": "https://updates.hoppip.at/pd2-bot-weapons/download",
+    "pd2-hoplib": "https://updates.hoppip.at/pd2-hoplib/download",
+    "PocoHUD3": "https://www.dropbox.com/s/ca03nz8m3zfux1a/PocoHUD3.zip?raw=1",
+    "QuickKeyboardInput": "http://pd2mods.z77.fr/update/QuickKeyboardInput.zip",
+    "Rename Inventory Pages": "http://pd2mods.z77.fr/update/RenameInventoryPages.zip",
+    "Restructured Menus": "http://pd2mods.z77.fr/update/RestructuredMenus.zip",
+    "Saw Helper": "http://pd2mods.z77.fr/update/SawHelper.zip",
+    "Search Inventory": "http://pd2mods.z77.fr/update/SearchInventory.zip",
+    "Sentry Health Display": "http://pd2mods.z77.fr/update/SentryHealthDisplay.zip",
+    "the_fixes": "https://www.dropbox.com/s/bwgzpumiokavzv7/TheFixes.zip?raw=1",
+    "hudlistcontinued": "https://gitlab.com/steam-test1/alternative-updates/-/raw/main/update/hudlistcontinued.zip",
+    "Yet Another Flashlight": "http://pd2mods.z77.fr/update/YetAnotherFlashlight.zip"
+  },
+  "updates": [
+    {
+			"identifier" : "SimpleModUpdater",
+			"display_name" : "Simple Mod Updater",
+			"install_folder" : "Simple Mod Updater",
+			"host" : { "meta": "http://pd2mods.z77.fr/meta/SimpleModUpdater", }
+		}
+	]
+}
